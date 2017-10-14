@@ -1,0 +1,3 @@
+class RollbarItem < ApplicationRecord
+  
+end
